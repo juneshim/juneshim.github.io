@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12496efd.css",
+    "main.js": "/static/js/main.bd158727.js",
+    "static/js/453.54f58185.chunk.js": "/static/js/453.54f58185.chunk.js",
+    "static/media/curriculums_8.jpg": "/static/media/curriculums_8.ea87381cee0bc93f4cd0.jpg",
+    "static/media/curriculums_7.jpg": "/static/media/curriculums_7.01965654f5f5a07759e2.jpg",
+    "static/media/curriculums_1.jpg": "/static/media/curriculums_1.9dd29354c0efbde07649.jpg",
+    "static/media/curriculums_10.jpg": "/static/media/curriculums_10.015ec3055e80f091633d.jpg",
+    "static/media/curriculums_2.jpg": "/static/media/curriculums_2.70ae489346d1fc35a880.jpg",
+    "static/media/curriculums_6.jpg": "/static/media/curriculums_6.2d954cef6ca7b6e27dac.jpg",
+    "static/media/curriculums_5.jpg": "/static/media/curriculums_5.2d6ad7970eb849fa740e.jpg",
+    "static/media/curriculums_3.jpg": "/static/media/curriculums_3.74404e3a506620256fc6.jpg",
+    "static/media/curriculums_4.jpg": "/static/media/curriculums_4.17f39d8669dfb571a9e7.jpg",
+    "static/media/curriculums_9.jpg": "/static/media/curriculums_9.56f2ed3b59d3741fede9.jpg",
+    "static/media/done_ICON.png": "/static/media/done_ICON.9b2600b074e090c44fac.png",
+    "static/media/setIcon.png": "/static/media/setIcon.b2da165de69b7118b77b.png",
+    "static/media/email_ICON.png": "/static/media/email_ICON.67bda94140af311d041f.png",
+    "static/media/logo-ICON@2x.png": "/static/media/logo-ICON@2x.eef1c6d8b3ffd84b926e.png",
+    "index.html": "/index.html",
+    "main.12496efd.css.map": "/static/css/main.12496efd.css.map",
+    "main.bd158727.js.map": "/static/js/main.bd158727.js.map",
+    "453.54f58185.chunk.js.map": "/static/js/453.54f58185.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12496efd.css",
+    "static/js/main.bd158727.js"
+  ]
+}
